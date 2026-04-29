@@ -16,17 +16,21 @@
 - [ ] Junior Developer / UI/UX Designer
 - [ ] Lainnya: ______________
 
-**2. Seberapa sering anda mengerjakan project / tugas terkait [Sebutkan Topik Bootcamp]?**
-- [ ] Hampir tiap hari
-- [ ] 1-2 kali seminggu
-- [ ] Jarang (cuma kalau ada tugas/kebutuhan mendadak)
-- [ ] Belum pernah sama sekali *(Dapat disetting logic jump ke akhir form jika target bukan pemula)*
+**2. Apa tujuan utama lu ikut bootcamp?**
+- [ ] Belajar dari nol (beginner)
+- [ ] Upgrade skill biar lebih siap kerja
+- [ ] Pindah karir ke bidang tech
+- [ ] Bikin portfolio / project nyata
+- [ ] Lainnya: ______________
 
-**3. Biasanya anda pakai OS atau environment apa?** (Bisa pilih > 1)
-- [ ] Windows
-- [ ] macOS
-- [ ] Linux (Ubuntu/Mint dkk)
-- [ ] Linux (Arch/Manjaro dkk)
+**3. Seberapa familiar lu dengan topik [Topik Bootcamp]?** 
+- [ ] Belum pernah sama sekali
+- [ ] Pernah belajar dikit
+- [ ] Sudah cukup paham basic
+- [ ] Sudah pernah bikin project
+
+**4. Berapa waktu yang bisa lu komit tiap minggu untuk ikut bootcamp?**
+- [ ] 
 
 ---
 
