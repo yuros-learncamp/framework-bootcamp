@@ -1,5 +1,5 @@
-# framework-Course
-## Drafting untuk framework Pembuatan Konten Course (Phase 1: 6-Weeks Agile, Speed-QC)
+# Framework-Bootcamp
+## Drafting untuk framework Pembuatan Konten Bootcamp (Phase 1: 6-Weeks Agile, Speed-QC)
 
 ### Week 1: Research & Formatting Foundation
 | day | task | output | time |
@@ -54,7 +54,7 @@
 | selasa | Formatting Global & Sinkronisasi Sesi 6 - 10 | Modul 6-10 Siap Pakai | 240 Menit |
 | rabu | Formatting Global & Sinkronisasi Sesi 11 - 15 | Modul 11-15 Siap Pakai | 240 Menit |
 | kamis | Evaluasi Logic Penugasan vs Capaian Belajar | Penugasan Valid | 240 Menit |
-| jumat | Finalisasi Master Repository Materi (Zip/Git Push) | Course Siap Upload! | 240 Menit |
+| jumat | Finalisasi Master Repository Materi (Zip/Git Push) | bootcamp Siap Upload | 240 Menit |
 
 ### Week 7: Setup & Integration ke Platform
 | day | task | output | time |
@@ -64,8 +64,8 @@
 ### Week 8: Pre-Launch & Review
 | day | task | output | time |
 |---|---|---|---|
-| senin | Onboarding peserta (briefing, rules, setup tools) | Peserta siap belajar | 180 menit |
-campaign sosmed
-link pendaftaran
-link zoom
+| senin | pembuatan link pendaftaran | link pendaftaran | 30 menit |
+| selasa | pembuatan flyer | campaign sosmed | 120 menit |
+| rabu | pembuatan link jitsi | link jitsi | 30 menit |
+| kamis | Onboarding peserta (briefing, rules, setup tools) | Peserta siap belajar | 180 menit |
 
