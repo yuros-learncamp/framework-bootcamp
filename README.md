@@ -1,2 +1,2 @@
 # framework-bootcamp
-Segala sesuatu terkait bootcamp seperti framework dan term of reference.
+Segala sesuatu mengenai framework bootcamp dan segala keribetannya.
