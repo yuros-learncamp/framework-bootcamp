@@ -75,7 +75,7 @@
 | selasa | Persiapan penyusunan alpha test (form volunteer & sertifikat) | Alpha testing | 30 Menit | 
 | rabu | Alpha Testing Bootcamp | Bug Log / Issue List | 180 Menit |
 | kamis | Penyusunan laporan alpha test | Report Alpha Test | 90 Menit |
-| jumat | Revisi Alpha | Engine Stabil | 180 Menit |
+| jumat | Revisi Alpha |  | 180 Menit |
 
 ---
 
