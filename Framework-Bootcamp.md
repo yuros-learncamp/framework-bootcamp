@@ -57,11 +57,13 @@
 
 ### Week 5: Proofread Sesi 11 - 15
 
+| day | task | output | time |
+|---|---|---|---|
 | senin | Proofread sesi 11-12 | eval sesi 11-15 | 180 Menit |
 | selasa | Proofread sesi 13-14 | eval sesi 11-15 | 180 Menit |
 | rabu | Proofread sesi 15 | eval sesi 11-15 | 180 Menit |
-| kamis | Finalisasi Master Repository | Push to main branch | 90 Menit |
-| jumat | Beta Testing (Soft Launch ke teman/komunitas buat nyoba) | Feedback User | 90 Menit |
+| kamis | Beta Testing (Soft Launch ke teman/komunitas buat nyoba) | Feedback User | 90 Menit |
+| jumat | Penyusunan laporan beta test | Report Beta Test | 90 Menit |
 
 ---
 
@@ -69,11 +71,11 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| senin | Penyusunan laporan beta test | Report Beta Test | 90 Menit |
-| selasa | Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 90 Menit |
-| rabu | Persiapan penyusunan alpha test (form volunteer & sertifikat) | Alpha testing | 180 Menit | 
-| kamis | Alpha Testing Bootcamp | Bug Log / Issue List | 180 Menit |
-| jumat | Penyusunan laporan alpha test | Report Alpha Test | 90 Menit |
+| senin | Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 90 Menit |
+| selasa | Persiapan penyusunan alpha test (form volunteer & sertifikat) | Alpha testing | 30 Menit | 
+| rabu | Alpha Testing Bootcamp | Bug Log / Issue List | 180 Menit |
+| kamis | Penyusunan laporan alpha test | Report Alpha Test | 90 Menit |
+| jumat | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
 
 ---
 
@@ -81,6 +83,7 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| senin | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
-| selasa | Scheduling Release (Set auto-post sosmed, blast email/grup) | Campaign Scheduled | 180 Menit |
-| rabu | LAUNCHING! | Bootcamp Live | 30 Menit |
+| senin |  Riset pemasaran | laporan riset | 120 Menit |
+| selasa | Pembuatan materi promosi | Marketing Assets | 180 Menit |
+| rabu | Scheduling Release | Campaign Scheduled | 60 Menit |
+| kamis | LAUNCHING! | Bootcamp Live | 30 Menit |
