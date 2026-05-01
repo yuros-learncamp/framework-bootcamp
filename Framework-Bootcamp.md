@@ -62,8 +62,8 @@
 | senin | Proofread sesi 11-12 | eval sesi 11-15 | 180 Menit |
 | selasa | Proofread sesi 13-14 | eval sesi 11-15 | 180 Menit |
 | rabu | Proofread sesi 15 | eval sesi 11-15 | 180 Menit |
-| kamis | Beta Testing (Soft Launch ke teman/komunitas buat nyoba) | Feedback User | 90 Menit |
-| jumat | Penyusunan laporan beta test | Report Beta Test | 90 Menit |
+| kamis | Beta Testing | Feedback User | 180 Menit |
+| jumat | Evaluasi beta testing | laporan beta testing | 180 Menit |
 
 ---
 
@@ -71,11 +71,11 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| senin | Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate | 90 Menit |
-| selasa | Persiapan penyusunan alpha test (form volunteer & sertifikat) | Alpha testing | 30 Menit | 
-| rabu | Alpha Testing Bootcamp | Bug Log / Issue List | 180 Menit |
-| kamis | Penyusunan laporan alpha test | Report Alpha Test | 90 Menit |
-| jumat | Revisi Alpha | Optimalisasi | 180 Menit |
+| senin | Revisi Beta | Bug Resolve | 170 Menit |  
+| senin | pendaftaran alpha testing | form alpha testing | 10 Menit |
+| rabu | Alpha testing | Feedback user | 170 Menit |
+| kamis | Sertif audiens Alpha | draft sertif alpa | 10 Menit |
+| jumat | Eval alpha testing | laporan alpha test | 180 Menit |
 
 ---
 
