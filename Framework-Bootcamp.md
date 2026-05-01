@@ -1,7 +1,7 @@
 # Framework Bootcamp
 ## Draft Pembuatan Bootcamp
 
-### Week 1: Research & Formatting Foundation
+### Week 1: Research & Formatting 
 | day | task | output | time |
 |---|---|---|---|
 | senin | Perencanaan riset | Terms of References | 180 Menit |
@@ -67,7 +67,7 @@
 
 ---
 
-### Week 6: Finalize Session & Beta Test
+### Week 6: Beta Test
 
 | day | task | output | time |
 |---|---|---|---|
@@ -75,7 +75,7 @@
 | selasa | Persiapan penyusunan alpha test (form volunteer & sertifikat) | Alpha testing | 30 Menit | 
 | rabu | Alpha Testing Bootcamp | Bug Log / Issue List | 180 Menit |
 | kamis | Penyusunan laporan alpha test | Report Alpha Test | 90 Menit |
-| jumat | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
+| jumat | Revisi Alpha | Engine Stabil | 180 Menit |
 
 ---
 
