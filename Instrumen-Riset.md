@@ -1,5 +1,3 @@
-# Template
-
 # Instrumen Kuesioner: [Nama Bootcamp]
 
 ## A. Halaman Muka (Landing/Header Form)
