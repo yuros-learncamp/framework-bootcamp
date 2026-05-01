@@ -1,3 +1,5 @@
+# Template
+
 # Instrumen Kuesioner: [Nama Bootcamp]
 
 ## A. Halaman Muka (Landing/Header Form)
@@ -16,75 +18,76 @@
 - [ ] Junior Developer / UI/UX Designer
 - [ ] Lainnya: ______________
 
-**2. Apa tujuan utama lu ikut bootcamp?**
+**2. Apa tujuan utama anda ikut bootcamp?**
 - [ ] Belajar dari nol (beginner)
-- [ ] Upgrade skill biar lebih siap kerja
+- [ ] Upgrade skill agar lebih siap kerja
 - [ ] Pindah karir ke bidang tech
-- [ ] Bikin portfolio / project nyata
+- [ ] Membuat portfolio / project nyata
 - [ ] Lainnya: ______________
 
-**3. Seberapa familiar lu dengan topik [Topik Bootcamp]?** 
+**3. Seberapa familiar anda dengan topik [Topik Bootcamp]?** 
 - [ ] Belum pernah sama sekali
-- [ ] Pernah belajar dikit
-- [ ] Sudah cukup paham basic
-- [ ] Sudah pernah bikin project
+- [ ] Pernah mempelajari secara dasar
+- [ ] Cukup memahami konsep dasar
+- [ ] Sudah memiliki pengalaman proyek
 
 **4. Berapa waktu yang bisa lu komit tiap minggu untuk ikut bootcamp?**
-- [ ] 
+- [ ] < 5 jam per minggu
+- [ ] 5 – 10 jam per minggu
+- [ ] 10 – 15 jam per minggu
 
 ---
 
 ## C. Bagian 2: Behaviour & Pain Points (Checkboxes / Skala)
 *Tujuan: Mencaritahu apa yang mereka bingungkan.*
 
-**4. Ketika mengerjakan [Sebutkan Topik], bagian mana yang membuat anda *stuck* atau menghabiskan banyak waktu?** (Pilih maksimal 3)
-- [ ] Setup awal / Instalasi tools
-- [ ] Mahamin logika atau konsep dasarnya
-- [ ] Nyari referensi desain / dokumentasi
-- [ ] Debugging / Benerin error
-- [ ] Lainnya: ______________
+**5. Apa kendala utama yang Anda hadapi saat mempelajari [Topik Bootcamp]? (Pilih maksimal 3)**
+- [ ] Kesulitan menentukan titik awal belajar
+- [ ]  Materi terlalu teoritis dan kurang praktik
+- [ ]  Tidak adanya bimbingan atau mentor
+- [ ]  Kesulitan menjaga konsistensi belajar
+- [ ]  Kendala teknis (error/debugging)
+- [ ]  Minimnya komunitas atau lingkungan belajar
+- [ ]  Lainnya: _____________
 
-**5. Ketika anda *stuck*, biasanya anda beralih ke mana?** (Bisa pilih > 1)
-- [ ] Google / StackOverflow
-- [ ] Nonton tutorial YouTube
-- [ ] Tanya AI (ChatGPT / Gemini / Claude)
-- [ ] Tanya temen / komunitas
-- [ ] Baca dokumentasi resmi (RTFM)
+**6. Sumber belajar apa yang paling sering Anda gunakan? (Bisa pilih lebih dari satu)**
+- [ ] Video pembelajaran (YouTube, dll)
+- [ ] Dokumentasi resmi
+- [ ] AI (ChatGPT, dll)
+- [ ] Komunitas atau forum diskusi
+- [ ] Lainnya: _____________
 
-**6. Dari skala 1-5, seberapa susah menurut lu belajar [Topik Course] pakai sumber yang ada sekarang?**
-- (1) Gampang banget ----- (5) Susah / Bikin frustrasi
+**7. Seberapa sulit Anda menilai proses belajar topik ini secara mandiri?**
+- (1) Sangat mudah — (5) Sangat sulit
 
 ---
 
-## D. Bagian 3: Expectations & Validation (Pilihan Ganda)
-*Tujuan: Validasi format course dan *pricing* lu.*
+## D. Bagian 3: Kebutuhan Bootcamp
+*Tujuan: Menentukan desain dan struktur bootcamp.*
 
-**7. Kalau ada course yang ngebahas [Sebutkan Solusi Lu], lu lebih suka format belajarnya kayak gimana?**
-- [ ] Full Video Tutorial (durasi per video pendek-pendek)
-- [ ] Teks interaktif + Gambar/GIF (Kayak dokumentasi/artikel)
-- [ ] Project-based (Langsung praktek bikin 1 kasus nyata)
-- [ ] Campuran (Video + Teks)
+**8. Format pembelajaran seperti apa yang paling Anda preferensikan?**
+- [ ] Self-paced (belajar mandiri)
+- [ ] Kelas langsung (live session terjadwal)
+- [ ] Hybrid (kombinasi rekaman dan live session)
+- [ ] Bootcamp intensif (jadwal padat harian)
 
-**8. Fasilitas apa yang PALING lu arepin ada di course kayak gitu?** (Pilih maksimal 2)
-- [ ] Template / Boilerplate siap pakai
-- [ ] Grup diskusi / Komunitas
-- [ ] Review tugas langsung dari mentor
-- [ ] Sertifikat
+**9. Durasi bootcamp yang ideal menurut Anda adalah:**
+- [ ] 1–2 minggu
+- [ ] 1 bulan
+- [ ] 2–3 bulan
+- [ ] Lebih dari 3 bulan
 
-**9. (Opsional kalau course berbayar) Berapa range harga yang masuk akal buat lu untuk materi kayak gitu?**
-- [ ] Di bawah Rp 50.000
-- [ ] Rp 50.000 - Rp 100.000
-- [ ] Rp 100.000 - Rp 250.000
-- [ ] Gratis aja lah Bang.
+**10. Metode pembelajaran apa yang paling efektif bagi Anda? (Pilih maksimal 2)**
+- [ ] Berbasis proyek (project-based learning)
+- [ ] Studi kasus nyata
+- [ ] Tutorial bertahap (step-by-step)
 
 ---
 
 ## E. Bagian 4: Outro (Isian Teks Pendek/Panjang)
-**10. Ada uneg-uneg atau harapan spesifik nggak soal [Topik Course] ini? Tulis bebas aja di sini!**
-*(Kolom Teks)*
 
 **11. Boleh minta email atau username Telegram/Discord lu? (Opsional, barangkali nanti gue butuh ngobrol lebih lanjut atau ngasih diskon pas coursenya rilis)**
 *(Kolom Teks Pendek)*
 
 **Pesan Penutup Form:**
-"Mantap! Makasih banyak buat *insight*-nya. Ditunggu rilis coursenya ya!"
+"Mantap! Makasih banyak untuk *insight*-nya. Ditunggu rilis bootcampnya ya!"
