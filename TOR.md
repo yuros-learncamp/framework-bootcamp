@@ -1,5 +1,4 @@
-# template
- # 1. TERM OF REFERENCE (TOR)
+# 1. TERM OF REFERENCE (TOR)
 ## VESPER BOOTCAMP
 
 ---
