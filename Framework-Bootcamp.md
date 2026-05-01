@@ -79,7 +79,7 @@
 
 ---
 
-### Week 7: Alpha Phase
+### Week 7: Alpha Test
 
 | day | task | output | time |
 |---|---|---|---|
