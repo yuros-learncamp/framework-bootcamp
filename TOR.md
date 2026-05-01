@@ -1,6 +1,6 @@
 # template
  # 1. TERM OF REFERENCE (TOR)
-## VESPER COURSE
+## VESPER BOOTCAMP
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## H. Bentuk Kegiatan
 
-- Workshop (tema kegiatan)
+- Bootcamp (tema kegiatan)
 
 ---
 
@@ -71,7 +71,7 @@
 
 | Waktu        | Kegiatan            | Keterangan                          |
 |-------------|--------------------|------------------------------------|
-| 09:30–10:00 | Persiapan Workshop | periapan workshop                  |
+| 09:30–10:00 | Persiapan  | persiapan                   |
 | 10:00–11:30 |Pemaparan Materi          | Pemaparan Materi Oleh
 Pemateri                        |
 | 11:30–12:00 | tanya jawab        | Peserta Diperkenankan
